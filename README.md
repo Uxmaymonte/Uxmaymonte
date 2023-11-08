@@ -4,9 +4,7 @@
 💻 Estudando Front-end e Liderança
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/designermayaramonte/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mayara.monte/ebac-ux-ui-design-caso-de-estudo-app-hibriday-3265b959f1b9)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/designermayaramonte/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mayara.monte/ebac-ux-ui-design-caso-de-estudo-banco-ita%C3%BA-kids-fe4be93c2710)
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.mayaramonte.com.br/)
 
 ![Mayara Github stats](https://github-readme-stats.vercel.app/api?username=uxmaymonte&show_icons=true&theme=radical)
